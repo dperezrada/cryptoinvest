@@ -1,0 +1,8 @@
+{
+  "name": "cryptoinvest",
+  "dependencies": {
+    "async": "^2.3.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
