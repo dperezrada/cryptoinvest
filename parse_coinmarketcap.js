@@ -211,7 +211,8 @@ urls = [
 	// "https://coinmarketcap.com/historical/20170402/",
 	// "https://coinmarketcap.com/historical/20170409/",
 	// "https://coinmarketcap.com/historical/20170416/",
-	"https://coinmarketcap.com/historical/20170423/",
+	// "https://coinmarketcap.com/historical/20170423/",
+	"https://coinmarketcap.com/historical/20170430/",
 ]
 
 var get_url = function(url, callback){
